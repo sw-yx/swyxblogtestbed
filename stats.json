@@ -1,0 +1,76 @@
+{
+  "assetsByChunkName": {
+    "path---jamaica-blue": [
+      "path---jamaica-blue-838e8cd41a9eac42e016.js",
+      "path---jamaica-blue-838e8cd41a9eac42e016.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-d995c89baed766dae008.js",
+      "component---src-pages-index-js-d995c89baed766dae008.js.map"
+    ],
+    "path---products": [
+      "path---products-fd3268fbcb152a629c33.js",
+      "path---products-fd3268fbcb152a629c33.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---brewing-chemex": [
+      "path---brewing-chemex-7f4f3019c48e45e17583.js",
+      "path---brewing-chemex-7f4f3019c48e45e17583.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-c4f4097501caac94b15f.js",
+      "component---src-templates-blog-post-js-c4f4097501caac94b15f.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-bab75c58f96aea4f00b4.js",
+      "component---src-layouts-index-js-bab75c58f96aea4f00b4.js.map"
+    ],
+    "path---index": [
+      "path---index-6a5a429ce249030a108e.js",
+      "path---index-6a5a429ce249030a108e.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-cf63a67bce0c07e47a92.js",
+      "commons-cf63a67bce0c07e47a92.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---free-code-camp": [
+      "path---free-code-camp-a0f09c0c437ef97081b1.js",
+      "path---free-code-camp-a0f09c0c437ef97081b1.js.map"
+    ],
+    "app": [
+      "app-42e8b337a401ca2fec72.js",
+      "app-42e8b337a401ca2fec72.js.map"
+    ],
+    "path---making-sense": [
+      "path---making-sense-732e5e38b0d6a9d3d7db.js",
+      "path---making-sense-732e5e38b0d6a9d3d7db.js.map"
+    ],
+    "component---src-templates-product-page-js": [
+      "component---src-templates-product-page-js-58ee21f7fb729eca1676.js",
+      "component---src-templates-product-page-js-58ee21f7fb729eca1676.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-about-page-js": [
+      "component---src-templates-about-page-js-ec62b490293c9b1f07f1.js",
+      "component---src-templates-about-page-js-ec62b490293c9b1f07f1.js.map"
+    ],
+    "path---about": [
+      "path---about-029e1cd46d9250032b66.js",
+      "path---about-029e1cd46d9250032b66.js.map"
+    ]
+  }
+}
